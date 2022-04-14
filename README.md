@@ -1,7 +1,7 @@
-# Webeleon npm package starter
+# Webeleon scss helper
 
 ## Install
 
 ```
-npm i package-name
+npm i @webeleon/scss-helper
 ```

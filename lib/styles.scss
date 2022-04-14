@@ -1,0 +1,38 @@
+@import "./animations";
+@import "./responsive";
+
+@include XXL {
+  body {
+    font-size: 36px;
+  }
+}
+
+@include XL {
+  body {
+    font-size: 18px;
+  }
+}
+
+@include large-desktop {
+  body {
+    font-size: 14px;
+  }
+}
+
+@include desktop {
+  body {
+    font-size: 13px;
+  }
+}
+
+@include tablet {
+  body {
+    font-size: 12px;
+  }
+}
+
+@include mobile {
+  body {
+    font-size: 10px;
+  }
+}
