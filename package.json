@@ -1,6 +1,6 @@
 {
   "name": "@webeleon/scss-toolkit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "collection of scss classes and mixins",
   "main": "lib/styles.scss",
   "scripts": {
