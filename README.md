@@ -3,5 +3,5 @@
 ## Install
 
 ```
-npm i @webeleon/scss-helper
+npm i @webeleon/scss-toolkit
 ```
